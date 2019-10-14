@@ -39,7 +39,7 @@ Languages and Tools:
 - Adobe Affet Effects
 
 
-![2-BasicMap](Images/2-BasicMap.png)
+![2-BasicMap](img/leaftlet-screenshot.jpg)
 
 Links:
 https://github.com/BrianLabelle/leaflet-challenge
