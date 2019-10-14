@@ -42,7 +42,8 @@ Languages and Tools:
 ![2-BasicMap](img/leaftlet-screenshot.jpg)
 
 Links:
-https://github.com/BrianLabelle/leaflet-challenge
+GitHub: https://github.com/BrianLabelle/leaflet-challenge
+Website: https://brianlabelle.github.io/leaflet-challengeHTML/
 
 
 
